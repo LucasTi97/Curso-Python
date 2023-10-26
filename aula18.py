@@ -1,12 +1,13 @@
 # if / elif      / else
 # se / se não se / se não
 
-condicao1 = True
-condicao2 = True
+condicao1 = False
+condicao2 = False
 condicao3 = True
 condicao4 = True
 
 if condicao1:
+    print('Código para condição 1')
     print('Código para condição 1')
 elif condicao2:
     print('Código para condição 2')
